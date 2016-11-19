@@ -1,3 +1,4 @@
+getwd()
 # Setting the working directory
 setwd("/MY_FILE_DIRECTORY")
 # Loading the Data
